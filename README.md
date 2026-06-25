@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="assets/icons/lumigrzyb.png" width="160" alt="LumiGrzyb logo" />
-
+    
 # LumiGrzyb
 
 **Nowoczesny kontroler oświetlenia Philips Hue dla komputerów stacjonarnych.**
@@ -9,9 +7,36 @@
 Aplikacja desktopowa napisana we Flutterze, z interfejsem w stylu Fluent / WinUI 3
 (rozmazane, półprzezroczyste tło Acrylic na Windows 11).
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Flutter](https://img.shields.io/badge/Flutter-3.3%2B-02569B?logo=flutter&logoColor=white)
+
 </div>
 
 ---
+
+## 🤔 Po co to powstało? (Why?)
+
+Oficjalna aplikacja Philips Hue jest **tylko na telefon** — żeby zmienić światło przy
+biurku, trzeba sięgać po komórkę, odblokować ją i czekać na załadowanie apki. Kiedy
+pracujesz lub grasz na komputerze, to niepotrzebne tarcie.
+
+**LumiGrzyb** rozwiązuje to, czego brakuje w ekosystemie Hue na desktopie:
+
+- 🖥️ **Sterowanie z poziomu komputera** — bez sięgania po telefon, wszystko pod ręką.
+- ⚡ **Natychmiastowa reakcja** — suwaki działają od razu (optymistyczny UI), bez
+  irytującego opóźnienia widocznego w oficjalnej apce.
+- 🪟 **Natywny wygląd Windows 11** — efekt Acrylic / Fluent zamiast przeniesionego
+  interfejsu mobilnego.
+- 🔓 **Bez konta i bez chmury** — łączy się bezpośrednio z mostkiem w sieci lokalnej;
+  działa nawet bez dostępu do internetu (lokalne wykrywanie mostka).
+- 🎉 **Tryb „Impreza"** — dynamiczna animacja kolorów, której oficjalna apka nie ma w
+  tak prostej formie.
+- 🪶 **Lekka i szybka** — jedno małe okno, zero zbędnych dodatków.
+
+To projekt hobbystyczny — zbudowany dla wygody i nauki, nie jako zamiennik pełnej
+funkcjonalności (sceny, automatyzacje, harmonogramy) oficjalnej aplikacji.
 
 ## ✨ Funkcje
 
