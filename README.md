@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # LumiGrzyb
 
 **Nowoczesny kontroler oświetlenia Philips Hue dla komputerów stacjonarnych.**
@@ -9,7 +9,7 @@ Aplikacja desktopowa napisana we Flutterze, z interfejsem w stylu Fluent / WinUI
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-3.3%2B-02569B?logo=flutter&logoColor=white)
 
 </div>
